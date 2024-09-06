@@ -1,0 +1,7 @@
+/*This is a comment in CSS*/
+h2{
+    color:green;
+    text-transform: capitalize;
+    text-align: center;
+    text-indent: 100;
+}
